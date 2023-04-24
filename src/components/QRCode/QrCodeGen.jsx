@@ -1,5 +1,5 @@
 import React from 'react'
-import imageQrCode from '../../assets/images/image-qr-code.png'
+import imageQrCode from '../assets/images/image-qr-code.png'
 import style from './QRCode.module.css'
 
 const QrCodeGen = () => {

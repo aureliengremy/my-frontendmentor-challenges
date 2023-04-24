@@ -1,6 +1,6 @@
 import React from 'react'
 import style from './Rating.module.css'
-import Phone from '../../assets/images/illustration-thank-you.svg'
+import Phone from '../assets/images/illustration-thank-you.svg'
 
 const Thanks = ({selectedRate}) => {
   return (
